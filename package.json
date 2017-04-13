@@ -57,7 +57,7 @@
     ]
   },
   "devDependencies": {
-    "eslint-config-xo-react": "^0.10.0",
+    "eslint-config-xo-react": "0.10.0",
     "eslint-plugin-react": "^6.9.0",
     "xo": "^0.17.1"
   }

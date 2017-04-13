@@ -1862,7 +1862,7 @@ eslint-config-prettier@^1.4.1:
   dependencies:
     get-stdin "^5.0.1"
 
-eslint-config-xo-react@^0.10.0:
+eslint-config-xo-react@0.10.0:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/eslint-config-xo-react/-/eslint-config-xo-react-0.10.0.tgz#780494298c45163480ba7c805f1304d408964d1d"
 
