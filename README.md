@@ -1,4 +1,4 @@
-# Teezily demo
+# Algolia demo starter
 
 ## How to run
 
